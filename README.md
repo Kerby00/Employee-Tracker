@@ -3,6 +3,8 @@
 ## Description:
 -This application is a demonstration of a database with departments, roles and employees. It will allow you to view all of these in the command line while also being able to add a department, role and emplyoee. They have manager relations. You can also update roles. It was cool to mess around with the syntax
 
+![Screenshot 2023-04-13 221730](https://user-images.githubusercontent.com/119148777/231941033-91640707-7a21-4467-bdfc-760ce029cf69.png)
+
 ## Table of Content:
 -[Description](#description)
 -[Installation](#installation)
